@@ -1,0 +1,6 @@
+{
+    "configuration": "usb=serial,speed=600,opt=o2std,keys=en-us",
+    "board": "teensy:avr:teensy40",
+    "sketch": "rover_2_wheel_PCA9685\\rover_2_wheel_PCA9685.ino",
+    "port": "COM31"
+}
